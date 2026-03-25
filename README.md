@@ -185,5 +185,5 @@ This project demonstrates a **complete production-style data pipeline**, includi
 
 ---
 
-**Author:** Pranshu
+**Group:** Group Ate
 **Domain:** Data Engineering / Analytics
