@@ -99,7 +99,7 @@ Used for visualization in tools like Power BI / Tableau.
 * Identifies customers with high total duration
 
 ```
-HAVING SUM(Duration) > 500
+HAVING SUM(Duration) > 200
 ```
 
 ### Email Notification
